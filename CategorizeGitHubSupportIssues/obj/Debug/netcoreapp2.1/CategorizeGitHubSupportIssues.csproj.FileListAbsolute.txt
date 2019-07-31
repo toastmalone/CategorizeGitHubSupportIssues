@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\bin\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.deps.json
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\bin\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.runtimeconfig.json
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\bin\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\bin\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.dll
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\obj\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\obj\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\obj\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\obj\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\bin\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.pdb
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\obj\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.dll
+C:\Users\Administrator\source\repos\CategorizeGitHubSupportIssues\CategorizeGitHubSupportIssues\obj\Debug\netcoreapp2.1\CategorizeGitHubSupportIssues.pdb
